@@ -3,7 +3,7 @@
 
 
 
-### <img width="100" height="100" alt="icons8-página-100" src="https://github.com/user-attachments/assets/5d7b9b7c-8fe4-493a-bf90-3b8c0cdafe54"/> [View my portfolio](https://lucasvini-eng.github.io/portifolio-app/)
+### ⟫ [View my portfolio](https://lucasvini-eng.github.io/portifolio-app/)
 
 
 <h3 align="left">GitHub Stats</h3>
