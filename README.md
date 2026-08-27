@@ -35,9 +35,9 @@
 ```java
 public class LucasVinicius {
 
-    String role = "Software Engineer | Data Engineer | Backend Developer";
+    String role = "Software Engineer | Data Engineering | Systems Analyst";
 
-    String education = "B.Sc. Information Systems — Estácio (2023-2026)";
+    String education = "B.Sc. Information Systems";
 
     String location = "Maceió, Alagoas, Brazil";
 
