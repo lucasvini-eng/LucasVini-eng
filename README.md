@@ -6,12 +6,9 @@
 
 <img width="50" height="50" alt="icons8-python-50" src="https://github.com/user-attachments/assets/f80cb226-4055-43b4-a122-77c987030323" />
 <img width="50" height="50" alt="icons8-django-50" src="https://github.com/user-attachments/assets/1e5fbd1b-cbf9-4686-835b-10d1cd993c8f" />
-<img width="50" height="50" alt="icons8-intellij-idea-50" src="https://github.com/user-attachments/assets/c57eac55-16ad-42d1-b2f5-6c4c74a0b38b" />
 <img width="50" height="50" alt="icons8-logo-java-coffee-cup-50" src="https://github.com/user-attachments/assets/278a951c-6c5a-4791-97c1-88af9e2ba96c" />
 <img width="50" height="50" alt="icons8-logotipo-da-primavera-50" src="https://github.com/user-attachments/assets/f9da88e3-3702-44b5-9aca-3e4b139959b3" />
-<img width="50" height="50" alt="icons8-android-studio-50" src="https://github.com/user-attachments/assets/985b087e-41c1-4c0d-aaab-230ca9475b77" />
 <img width="50" height="50" alt="icons8-kotlin-50" src="https://github.com/user-attachments/assets/37600c07-8f6a-46e9-893f-f5c5e2dae3c3" />
-<img width="50" height="50" alt="icons8-visual-studio-code-2019-50" src="https://github.com/user-attachments/assets/fd8c6b3c-4b98-4ec1-ade1-8e37e9c23aba" />
 <img width="50" height="50" alt="icons8-javascript-50" src="https://github.com/user-attachments/assets/bbcc4de4-f25b-4ac9-b613-54e609a3d112" />
 <img width="50" height="50" alt="icons8-html-5-50" src="https://github.com/user-attachments/assets/ddf85f1d-7bc1-4c1a-9c37-70e43589153f" />
 <img width="50" height="50" alt="icons8-css3-50" src="https://github.com/user-attachments/assets/81b2d29f-bd7b-4a1a-843a-4b88c0e572c0" />
@@ -20,6 +17,8 @@
 <img width="50" height="50" alt="icons8-tailwind-css-50" src="https://github.com/user-attachments/assets/4da029f4-86d9-439a-93f6-6866a204fa94" />
 <img width="50" height="50" alt="icons8-logo-mysql-50" src="https://github.com/user-attachments/assets/f552c6fa-3f15-4867-a7b0-e30afc331149" />
 <img width="50" height="50" alt="icons8-postgresql-50" src="https://github.com/user-attachments/assets/d7f458c7-80b7-40fb-a3dd-84356659e452" />
+<img width="50" height="50" alt="icons8-google-cloud-50" src="https://github.com/user-attachments/assets/4f924fd3-907d-4eaa-b4e1-8043c40ea3d4" />
+<img width="50" height="50" alt="icons8-amazon-web-services-50" src="https://github.com/user-attachments/assets/82264b99-0b55-4d00-ac40-d69c47e65ac3" />
 
 
 
