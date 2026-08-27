@@ -7,6 +7,7 @@
 <img width="50" height="50" alt="icons8-python-50" src="https://github.com/user-attachments/assets/f80cb226-4055-43b4-a122-77c987030323" />
 <img width="50" height="50" alt="icons8-django-50" src="https://github.com/user-attachments/assets/1e5fbd1b-cbf9-4686-835b-10d1cd993c8f" />
 <img width="50" height="50" alt="icons8-logo-java-coffee-cup-50" src="https://github.com/user-attachments/assets/278a951c-6c5a-4791-97c1-88af9e2ba96c" />
+<img width="50" height="50" alt="156354296" src="https://github.com/user-attachments/assets/aeb55e9e-7ebf-45c1-a82e-89702fd7092d" />
 <img width="50" height="50" alt="icons8-logotipo-da-primavera-50" src="https://github.com/user-attachments/assets/f9da88e3-3702-44b5-9aca-3e4b139959b3" />
 <img width="50" height="50" alt="icons8-kotlin-50" src="https://github.com/user-attachments/assets/37600c07-8f6a-46e9-893f-f5c5e2dae3c3" />
 <img width="50" height="50" alt="icons8-javascript-50" src="https://github.com/user-attachments/assets/bbcc4de4-f25b-4ac9-b613-54e609a3d112" />
