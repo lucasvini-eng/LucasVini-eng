@@ -2,7 +2,7 @@
 
 ### ⟫ [View my portfolio](https://lucasvini-eng.github.io/portifolio-app/)
 
-## 🚩Main Skills: Full Stack
+### 🚩Main Skills: Full Stack
 
 <img width="50" height="50" alt="icons8-python-50" src="https://github.com/user-attachments/assets/f80cb226-4055-43b4-a122-77c987030323" />
 <img width="50" height="50" alt="icons8-django-50" src="https://github.com/user-attachments/assets/1e5fbd1b-cbf9-4686-835b-10d1cd993c8f" />
@@ -21,17 +21,16 @@
 <img width="50" height="50" alt="icons8-google-cloud-50" src="https://github.com/user-attachments/assets/4f924fd3-907d-4eaa-b4e1-8043c40ea3d4" />
 <img width="50" height="50" alt="icons8-amazon-web-services-50" src="https://github.com/user-attachments/assets/82264b99-0b55-4d00-ac40-d69c47e65ac3" />
 
+### 🚀 Currently looking for
 
+- 💻 Junior Software Engineer opportunities
+- ⚙️ Backend Development
+- 📊 Data Engineering
+- ☁️ Cloud & Data Solutions
+- 🌎 Open to opportunities outside my home state
+- 🚚 Available to relocate for the right opportunity
 
-
-
-
-
-
-
-
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 ```java
 public class LucasVinicius {
