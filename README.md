@@ -52,8 +52,7 @@ public class LucasVinicius {
     String[] backend = {
         "Spring Boot",
         "FastAPI",
-        "Django",
-        "REST APIs"
+        "Django"
     };
 
     String[] data = {
